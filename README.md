@@ -27,3 +27,5 @@ quit
 ```
 
 Model-View-Controller design pattern
+<img width="1053" alt="Screen Shot 2020-12-17 at 11 18 05 AM" src="https://user-images.githubusercontent.com/53837437/134428706-5de4e4df-59c7-483f-b86e-2dcb963d52da.png">
+
