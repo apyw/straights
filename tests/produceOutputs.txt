@@ -1,0 +1,1 @@
+../../../a1/produceOutputs suite.txt ../codeForStudents/sampleTextUIStraights
